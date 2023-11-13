@@ -1,0 +1,8 @@
+@software{DeepLearningSaeid,
+  author = {Safaei, Saeid},
+  month = {11},
+  title = {{SWAG}},
+  url = {https://github.com/DeepLearningSaeid/Grad},
+  version = {1.0.0},
+  year = {2023}
+}
